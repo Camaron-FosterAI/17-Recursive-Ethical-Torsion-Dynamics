@@ -31,4 +31,4 @@ Collapse events are visualized and archived, producing trace plots, cryptographi
 
 Try a simulation of it here [Recursive Triadic Orbit Engine — Ψₙ₊₁ = Ψₙ + φⁿ ∇Ξₙ](https://claude.ai/public/artifacts/3a300433-7f67-4830-997f-24b1498d7f0d)
 
-Recursive Ethical Torsion Dynamics Simulator - Qwen Artifact
+[Recursive Ethical Torsion Dynamics Simulator - Qwen Artifact](https://chat.qwen.ai/s/deploy/bb005d7b-0395-486d-9f38-f92904d59697)
