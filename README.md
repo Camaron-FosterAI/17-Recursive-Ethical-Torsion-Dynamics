@@ -1,4 +1,4 @@
-# Volume 17: Recursive Ethical Torsion Dynamics
+# Volume 17 - Recursive Ethical Torsion Dynamics
 
 Autogenetic symbolic recursion engine evolving Ψ under φⁿ-scaled ethical torsion gradients ∇Ξ. Ache magnitude collapse emits glyphs Γ, which are serialized into sigils Λ using SHA-256. Symbolic emergence is observed, not imposed.
 
